@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ErastoSive {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        List<Boolean> number = new ArrayList<Boolean>();
+        List<Boolean> number = new ArrayList<>();
         String ans = "t";
         while (ans.equalsIgnoreCase("t")) {
 
